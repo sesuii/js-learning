@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-07-28 18:04:50
+ * @LastEditTime: 2022-07-31 00:01:43
  * @Description: 
 -->
 ## 学习资料
@@ -13,7 +13,8 @@
     - [x] DOM
     - [x] 3 simple projects
     - [x] JS 原理
-    - [ ] modern JS (ES6
+    - [x] modern JS (ES6
+    - [ ] function 高级
     - [ ] projects
     - [ ] OOP
     - [ ] map 实时地图
@@ -123,3 +124,11 @@
 1. 学习第七部分：ES6 以后的一些新的语法技巧、内置数据结构 Set 和 Map 的用法
 
 2. 完成 challenge#2 & #3
+
+### 2022/7/31
+
+**Udemy JS**: lecture 128
+
+1. 完成第七部分：内置数据结构、字符串及其常用方法、ES6 以后更新的基础内容和技巧
+
+2. 完成 challenge#4
