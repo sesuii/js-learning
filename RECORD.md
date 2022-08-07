@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-01 23:28:07
+ * @LastEditTime: 2022-08-05 12:44:36
  * @Description: 
 -->
 ## 学习资料
@@ -14,8 +14,8 @@
     - [x] 3 simple projects
     - [x] JS 原理
     - [x] modern JS (ES6
-    - [ ] function 高级
-    - [ ] projects
+    - [x] function 高级
+    - [ ] array tools
     - [ ] OOP
     - [ ] map 实时地图
     - [ ] Ajax
@@ -140,3 +140,13 @@
 1. 学习第八部分：一等函数、高阶函数（回调、函数返回函数）
 
 2. 完成 challenge#1
+
+### 2022/8/6
+
+**Udemy JS**: lecture 158
+
+1. 完成第八部分
+
+2. 学习第九部分：数组相关的方法、数据转换
+
+3. 完成相关习题挑战
