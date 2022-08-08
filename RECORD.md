@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-05 12:44:36
+ * @LastEditTime: 2022-08-08 11:21:09
  * @Description: 
 -->
 ## 学习资料
@@ -15,7 +15,8 @@
     - [x] JS 原理
     - [x] modern JS (ES6
     - [x] function 高级
-    - [ ] array tools
+    - [x] array tools
+    - [ ] Number and Date
     - [ ] OOP
     - [ ] map 实时地图
     - [ ] Ajax
