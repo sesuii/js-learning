@@ -1,26 +1,27 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-08 23:39:28
+ * @LastEditTime: 2022-08-09 11:23:53
  * @Description: 
 -->
 ## 学习资料
 
 1. Udemy Js 课程
-    - [x] Basic
-    - [x] develop environment & debug skill
-    - [x] simple HTML & CSS
-    - [x] DOM
-    - [x] 3 simple projects
-    - [x] JS 原理
-    - [x] modern JS (ES6
-    - [x] function 高级
-    - [x] array tools
-    - [ ] Number and Date
-    - [ ] OOP
-    - [ ] map 实时地图
-    - [ ] Ajax
-    - [ ] Modern technique 
+    - [x] 01. Basic
+    - [x] 02. develop environment & debug skill
+    - [x] 03. simple HTML & CSS
+    - [x] 04. DOM
+    - [x] 05. 3 simple projects
+    - [x] 06. JS 原理
+    - [x] 07. modern JS (ES6
+    - [x] 08. function 高级
+    - [x] 09. array tools
+    - [x] 10. Number and Date
+    - [ ] 11. Project & DOM 高级操作
+    - [ ] 12. OOP
+    - [ ] 13. map 实时地图
+    - [ ] 14. Ajax
+    - [ ] 15. Modern technique 
 
 2. JavaScript 高级程序设计（红宝书）
 
