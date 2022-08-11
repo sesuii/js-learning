@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-09 11:23:53
+ * @LastEditTime: 2022-08-11 14:53:28
  * @Description: 
 -->
 ## 学习资料
@@ -160,3 +160,20 @@
 1. 完成第九部分以及 challenge #4
 
 2. 学习第十部分：Number & Date
+
+### 2022/8/9
+
+**Udemy JS**: lecture 181
+
+1. 完成第十部分：Number & Date
+
+2. 学习第十一部分：DOM 高级操作和项目实战
+
+
+### 2022/8/11
+
+**Udemy JS**: lecture 203
+
+1. 完成第十一部分 DOM
+
+2. 完成【Bankist】项目
