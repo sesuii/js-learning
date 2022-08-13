@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-11 14:53:28
+ * @LastEditTime: 2022-08-13 23:29:45
  * @Description: 
 -->
 ## 学习资料
@@ -177,3 +177,13 @@
 1. 完成第十一部分 DOM
 
 2. 完成【Bankist】项目
+
+### 2022/8/13
+
+**Udemy JS**: lecture 217
+
+1. 学习第十二部分：OOP in JAVASCRIPT
+
+2. 类在 Js 中的实现：构造函数（借助原型继承）、ES6 Classes（语法糖 本质上还是原型继承）、`Object.create()`
+
+3. 完成 challenge #1 & #2
