@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-13 23:29:45
+ * @LastEditTime: 2022-08-14 21:10:24
  * @Description: 
 -->
 ## 学习资料
@@ -17,9 +17,9 @@
     - [x] 08. function 高级
     - [x] 09. array tools
     - [x] 10. Number and Date
-    - [ ] 11. Project & DOM 高级操作
-    - [ ] 12. OOP
-    - [ ] 13. map 实时地图
+    - [x] 11. Project & DOM 高级操作
+    - [x] 12. OOP
+    - [ ] 13. Project【mapty】
     - [ ] 14. Ajax
     - [ ] 15. Modern technique 
 
@@ -187,3 +187,9 @@
 2. 类在 Js 中的实现：构造函数（借助原型继承）、ES6 Classes（语法糖 本质上还是原型继承）、`Object.create()`
 
 3. 完成 challenge #1 & #2
+
+### 2022/8/14
+
+**Udemy JS**: lecture 227
+
+1. 完成第十二部分：OOP
