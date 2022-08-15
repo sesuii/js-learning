@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-14 23:02:14
+ * @LastEditTime: 2022-08-15 17:53:01
  * @Description: 
 -->
 ## 学习资料
@@ -19,8 +19,8 @@
     - [x] 10. Number and Date
     - [x] 11. Project & DOM 高级操作
     - [x] 12. OOP
-    - [ ] 13. Project【mapty】
-    - [ ] 14. Ajax
+    - [x] 13. Project【mapty】
+    - [ ] 14. asyn JS Ajax
     - [ ] 15. Modern technique 
 
 2. JavaScript 高级程序设计（红宝书）
@@ -195,3 +195,11 @@
 1. 完成第十二部分：OOP
 
 2. 第十三部分：地图标记项目。目前完成引入第三方库、成功获取实时位置加载地图、添加标记
+
+### 2022/8/15
+
+**Udemy JS**: lecture 245
+
+1. 完成第十三部分：mapty
+
+2. 学习如何构建项目、数据本地存储等
