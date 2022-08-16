@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-15 17:53:01
+ * @LastEditTime: 2022-08-16 23:27:26
  * @Description: 
 -->
 ## 学习资料
@@ -203,3 +203,9 @@
 1. 完成第十三部分：mapty
 
 2. 学习如何构建项目、数据本地存储等
+
+### 2022/8/16
+
+**Udemy JS**: lecture 255
+
+1. 学习 Part 14 Asyn Js：学习异步 Java 的新旧方法，处理 Callback hell 问题（回调嵌套导致），使用 Promises 和 Fetch API，学习 Fetch 相关方法。
