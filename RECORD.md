@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-16 23:27:26
+ * @LastEditTime: 2022-08-17 18:45:45
  * @Description: 
 -->
 ## 学习资料
@@ -20,7 +20,7 @@
     - [x] 11. Project & DOM 高级操作
     - [x] 12. OOP
     - [x] 13. Project【mapty】
-    - [ ] 14. asyn JS Ajax
+    - [x] 14. asyn JS Ajax
     - [ ] 15. Modern technique 
 
 2. JavaScript 高级程序设计（红宝书）
@@ -209,3 +209,11 @@
 **Udemy JS**: lecture 255
 
 1. 学习 Part 14 Asyn Js：学习异步 Java 的新旧方法，处理 Callback hell 问题（回调嵌套导致），使用 Promises 和 Fetch API，学习 Fetch 相关方法。
+
+### 2022/8/17
+
+**Udemy JS**: lecture 267
+
+1. 完成 Part 14 Asyn Js: 深入学习 Promise 的应用、异步函数、同步等待【async/await】
+
+2. 完成 challenge #2 & #3
