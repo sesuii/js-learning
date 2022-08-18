@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-17 18:45:45
+ * @LastEditTime: 2022-08-18 22:52:42
  * @Description: 
 -->
 ## 学习资料
@@ -21,7 +21,9 @@
     - [x] 12. OOP
     - [x] 13. Project【mapty】
     - [x] 14. asyn JS Ajax
-    - [ ] 15. Modern technique 
+    - [x] 15. Modern technique 
+    - [ ] 16. Final Project
+
 
 2. JavaScript 高级程序设计（红宝书）
 
@@ -217,3 +219,11 @@
 1. 完成 Part 14 Asyn Js: 深入学习 Promise 的应用、异步函数、同步等待【async/await】
 
 2. 完成 challenge #2 & #3
+
+### 2022/8/18
+
+**Udemy JS**: lecture 284
+
+1. 完成 Part 15 Modern Js technique
+
+2. 学习 ES6 模块概念、NPM 相关内容、代码准则、函数式编程
