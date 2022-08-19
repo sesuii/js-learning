@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-18 22:52:42
+ * @LastEditTime: 2022-08-20 05:05:39
  * @Description: 
 -->
 ## 学习资料
@@ -227,3 +227,11 @@
 1. 完成 Part 15 Modern Js technique
 
 2. 学习 ES6 模块概念、NPM 相关内容、代码准则、函数式编程
+
+### 2022/8/20
+
+**Udemy JS**: lecture 206
+
+1. 学习 Part 16 Final Project 【Part I && II】，实现展示、搜索、收藏等功能
+
+2. 使用 MVC 重构代码
