@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-20 05:05:39
+ * @LastEditTime: 2022-08-31 10:55:51
  * @Description: 
 -->
 ## 学习资料
@@ -230,8 +230,13 @@
 
 ### 2022/8/20
 
-**Udemy JS**: lecture 206
+**Udemy JS**: lecture 306
 
 1. 学习 Part 16 Final Project 【Part I && II】，实现展示、搜索、收藏等功能
 
 2. 使用 MVC 重构代码
+
+### 2022/8/31
+
+**Udemy JS**: lecture 206
+
