@@ -1,7 +1,7 @@
 <!--
  * @Author: _krill
  * @Date: 2022-07-11 13:46:54
- * @LastEditTime: 2022-08-31 10:55:51
+ * @LastEditTime: 2022-08-31 20:18:17
  * @Description: 
 -->
 ## 学习资料
@@ -22,7 +22,7 @@
     - [x] 13. Project【mapty】
     - [x] 14. asyn JS Ajax
     - [x] 15. Modern technique 
-    - [ ] 16. Final Project
+    - [x] 16. Final Project
 
 
 2. JavaScript 高级程序设计（红宝书）
@@ -238,5 +238,10 @@
 
 ### 2022/8/31
 
-**Udemy JS**: lecture 206
+**Udemy JS**: lecture 317
 
+1. 完成 Part 16 Final Project
+
+2. 完成 Part 17 服务器部署
+
+✨完结撒花✨
